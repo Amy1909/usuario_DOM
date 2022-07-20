@@ -1,0 +1,22 @@
+*{
+    margin: 0rem;
+    padding: 0;
+    box-sizing: border-box; 
+    background-color: var(--color1); 
+    }
+
+    body{
+    overflow: auto;
+}
+
+    html{
+    font-family: 'Comfortaa', cursive;
+    }
+    
+    :root {
+        --color1: #FFF1E7;
+        --color2: #F9C13F;
+        --color3: #FDBFD5;
+        --color4: #F9753F;
+        --color5: #908A35;
+    }
